@@ -136,3 +136,4 @@ Received Import Request.
 Start importing Assets/SampleSceneAssets/TutorialInfo/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f526ef3cb39c3e098b46d739acdfcb0') in 0.086098 seconds 
   Import took 0.103500 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
